@@ -10,8 +10,8 @@
   <packaging>jar</packaging>
 
   <scm>
-    <connection>scm:git:git@github.com:qpuser/github-test-repo.git</connection>
-    <developerConnection>scm:git:git@github.com:qpuser/github-test-repo.git</developerConnection>
+    <connection>scm:git:git://github.com/qpuser/github-test-repo.git</connecttion>
+    <developerConnection>scm:git:https://qpuser@github.com/qpuser/github-test-repo.git</developerConnection>
   </scm>
 
   <dependencies>
