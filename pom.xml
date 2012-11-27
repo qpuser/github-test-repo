@@ -39,7 +39,7 @@
       </plugin>
       <plugin>
         <groupId>org.apache.maven.scm</groupId>
-        <artifactId>maven-scm-plugin</artifactId>
+        <artifactId>maven-scm</artifactId>
         <version>1.8.1</version>
       </plugin>
 
