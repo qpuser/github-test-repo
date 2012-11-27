@@ -7,9 +7,9 @@
   <packaging>jar</packaging>
 
   <scm>
-    <url>git@github.com/qpuser/github-test-repo.git</url>
+    <!--url>git@github.com/qpuser/github-test-repo.git</url-->
     <connection>scm:git:https://github.com/qpuser/github-test-repo.git</connection>
-    <developerConnection>scm:git:git://github.com:qpuser/github-test-repo.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/qpuser/github-test-repo.git</developerConnection>
   </scm>
 
   <dependencies>
