@@ -6,15 +6,10 @@
   <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <!--scm>
+  <scm>
     <url>git@github.com/qpuser/github-test-repo.git</url>
     <connection>scm:git:https://github.com/qpuser/github-test-repo.git</connection>
     <developerConnection>scm:git:git://github.com:qpuser/github-test-repo.git</developerConnection>
-  </scm-->
-
-  <scm>
-    <connection>scm:git:https://qpuser@github.com/github-test-repo.git</connection>
-    <developerConnection>scm:git:https://qpuser@github.com/github-test-repo.git</developerConnection>
   </scm>
 
   <dependencies>
