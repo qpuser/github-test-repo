@@ -3,14 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>git-test-servicetag</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <scm>
     <!--url>git@github.com/qpuser/github-test-repo.git</url-->
     <connection>scm:git:https://github.com/qpuser/github-test-repo.git</connection>
     <developerConnection>scm:git:https://github.com/qpuser/github-test-repo.git</developerConnection>
-    <tag>git-test-servicetag-1.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
