@@ -12,8 +12,8 @@
     <developerConnection>scm:git:https://github.com/qpuser/github-test-repo.git</developerConnection-->
     <!--connection>scm:git:https://qpuser:quickplay123@github.com/qpuser/github-test-repo.git</connection>
     <developerConnection>scm:git:https://qpuser:quickplay123@github.com/qpuser/github-test-repo.git</developerConnection-->
-    <connection>scm:git@github.com:qpuser/github-test-repo.git</connection>
-    <developerConnection>scm:git@github.com:qpuser/github-test-repo.git</developerConnection>
+    <connection>scm:git:git@github.com:qpuser/github-test-repo.git</connection>
+    <developerConnection>scm:git:git@github.com:qpuser/github-test-repo.git</developerConnection>
   </scm>
 
   <dependencies>
