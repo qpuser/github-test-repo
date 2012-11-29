@@ -7,14 +7,13 @@
   <packaging>jar</packaging>
 
   <scm>
-    <!--url>git@github.com/qpuser/github-test-repo.git</url-->
+    <url>git@github.com/qpuser/github-test-repo.git</url>
     <!--connection>scm:git:https://github.com/qpuser/github-test-repo.git</connection>
     <developerConnection>scm:git:https://github.com/qpuser/github-test-repo.git</developerConnection-->
     <!--connection>scm:git:https://qpuser:quickplay123@github.com/qpuser/github-test-repo.git</connection>
     <developerConnection>scm:git:https://qpuser:quickplay123@github.com/qpuser/github-test-repo.git</developerConnection-->
     <connection>scm:git:git@github.com:qpuser/github-test-repo.git</connection>
     <developerConnection>scm:git:git@github.com:qpuser/github-test-repo.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
